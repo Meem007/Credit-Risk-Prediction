@@ -28,7 +28,7 @@ This project follows a structured approach to credit risk prediction:
 
 1. **Data Collection**: The dataset used for this project is obtained from Kaggle and contains various features related to borrowers, loans, and credit risk outcomes.
 
-2. **Data Preprocessing**: Data preprocessing involves handling missing values <p style="color: red;">(no data removed  rather susbtitute missing value with suitable replacemnt, used KNN imputation) </p>, converting categorical variables into numerical representations, and splitting the data into training and testing sets.
+2. **Data Preprocessing**: Data preprocessing involves handling missing values <span style="color: red;">(no data removed  rather susbtitute missing value with suitable replacemnt, used KNN imputation) </span>, converting categorical variables into numerical representations, and splitting the data into training and testing sets.
 
 3. **Exploratory Data Analysis (EDA)**: EDA includes visualizing the dataset to understand its distribution, relationships between variables, and identifying potential patterns or trends.
 
